@@ -16,6 +16,8 @@ public class HelloWorld {
      */
     public static void main(String[] args) {
         System.out.println("Hello World, my github account name is danieljoeblack");
+        
+        System.out.println("This is the first change to the world");
     }
     
 }
